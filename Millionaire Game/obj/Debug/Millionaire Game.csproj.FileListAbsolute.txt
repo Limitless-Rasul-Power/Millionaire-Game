@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Millionaire Game\Millionaire Game\bin\Debug\Millionaire Game.exe.config
+C:\Users\Admin\source\repos\Millionaire Game\Millionaire Game\bin\Debug\Millionaire Game.exe
+C:\Users\Admin\source\repos\Millionaire Game\Millionaire Game\bin\Debug\Millionaire Game.pdb
+C:\Users\Admin\source\repos\Millionaire Game\Millionaire Game\obj\Debug\Millionaire Game.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Millionaire Game\Millionaire Game\obj\Debug\Millionaire Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Millionaire Game\Millionaire Game\obj\Debug\Millionaire Game.exe
+C:\Users\Admin\source\repos\Millionaire Game\Millionaire Game\obj\Debug\Millionaire Game.pdb
